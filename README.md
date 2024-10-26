@@ -1,3 +1,4 @@
+This code calculates a 60% split index, partitions the data into two sets, and prints them.
 # room-3
  Train-Test // Split From Scratch Split sensor data into two sets manually. 
 data = [2.3, 3.1, 4.5, 5.6, 7.2]
